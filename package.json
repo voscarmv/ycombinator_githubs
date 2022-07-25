@@ -1,0 +1,30 @@
+{
+  "name": "ycombinator_githubs",
+  "version": "1.0.0",
+  "description": "A web scraping / data mining script for extracting beginner-friendly github repos from Y Combinator's company database: https://www.ycombinator.com/companies/",
+  "main": "scrape.sh",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voscarmv/ycombinator_githubs.git"
+  },
+  "keywords": [
+    "ycombinator",
+    "github",
+    "scraper",
+    "opensource"
+  ],
+  "author": "Oscar Mier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voscarmv/ycombinator_githubs/issues"
+  },
+  "homepage": "https://github.com/voscarmv/ycombinator_githubs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.9"
+  }
+}
