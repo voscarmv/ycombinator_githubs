@@ -10,7 +10,7 @@ dotenv.config();
                 process.argv[2],
                 {
                     headers: {
-                        Authorization: `token ${process.env.gh_secret}`,
+                        Authorization: `token ${process.env.secret}`,
                     }
                 }
             );
