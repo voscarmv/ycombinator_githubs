@@ -1,7 +1,7 @@
 # 1. Get the list of companies from the YCombinator API and scrape any github links from their websites.
 #    This generates 01_companies_githubs.csv
 
-node yc_scraper | tee > 01_companies_githubs.csv
+node yc_scraper.js | tee > 01_companies_githubs.csv
 
 # 2. Extract the github usernames (org names) from the previous list.
 #    This generates 02_orgs.csv
