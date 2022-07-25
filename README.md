@@ -6,11 +6,13 @@ This scraper is designed with [Microverse](https://www.microverse.org/) students
 ## Installation
 
 1. Clone the repository.
-2. `cd ycombinator_githubs`
-3. `npm install`
+2. `$ cd ycombinator_githubs`
+3. `$ npm install`
 
 ## Usage
 
-`./scrape.sh`
+1. Generate your github Personal Access Token as detailed in `.env.sample`
+2. Change the name of `.env.sample` to simply `.env`
+3. `$ ./scrape.sh`
 
 For details on how the scraping works, or what the `.csv` files contain, read `scrape.sh`
