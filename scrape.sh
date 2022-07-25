@@ -1,9 +1,9 @@
-# 1. Get the list of companies from the YCombinator API and scrape any github links
+# 1. Get the list of companies from the YCombinator API and scrape any github links from their websites.
 #    This generates 01_companies_githubs.csv
 
 node yc_scraper | tee > 01_companies_githubs.csv
 
-# 2. Extract the github usernames (org names) from the previous list
+# 2. Extract the github usernames (org names) from the previous list.
 #    This generates 02_orgs.csv
 
 cat 01_companies_githubs.csv | \
@@ -27,8 +27,8 @@ cat 02_orgs.csv | \
 cat 03_repos.csv | \
     grep -v "^#" | \
     while read line ; do node github_scraper.js $line ; done | \
-    sort -n > 04_sorted_repos.csv
+    sort -rn > 04_sorted_repos.csv
 
-# The most active github repositories written in JavaScript and Ruby will be located at the bottom of the file.
+# The most active github repositories written in JavaScript and Ruby will be located at the top of the 04 file.
 # These are also the most recent repositories from Y Combinator companies.
 # The idea is that these repos will be fresh and welcoming to beginners, with plenty of activity to participate.
