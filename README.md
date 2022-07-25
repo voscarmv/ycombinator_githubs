@@ -1,6 +1,8 @@
 # ycombinator_githubs
 A web scraping / data mining script for extracting beginner-friendly github repos from Y Combinator's company database: https://www.ycombinator.com/companies/
 
+This scraper is designed with [https://www.microverse.org/](Microverse) students and graduate in mind. It extracts the most recent and active Y Combinator github repos, written in JavaScript and Ruby, which are the two languages Micronauts use the most!
+
 ## Installation
 
 1. Clone the repository.
