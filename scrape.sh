@@ -8,7 +8,7 @@ node yc_scraper.js | tee > 01_companies_githubs.csv
 
 cat 01_companies_githubs.csv | \
     grep "|" | \
-    grep -o "github.com/[A-Za-z0-9_.-][A-Za-z0-9_.-]*" | \
+    grep -o "github.com/[-A-Za-z0-9_.][-A-Za-z0-9_.]*" | \
     sort | \
     uniq > 02_orgs.csv
 
