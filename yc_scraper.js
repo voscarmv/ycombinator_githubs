@@ -12,7 +12,7 @@ import fetch from 'node-fetch';
             try{
                 const html = await fetch(company.website);
                 const html_text = await html.text();
-                const githubs = html_text.match(/github.com\/[A-Za-z0-9_.-/]+/g);
+                const githubs = html_text.match(/github.com\/[-A-Za-z0-9_./]+/g);
                 console.log(`${company.name}, ${company.website}, ${company.url}, [${githubs ? githubs.toString().replace(",","|") : ''}]`);    
             } catch(e) {
                 console.log(`${company.name}, ${company.website} #SITEDOWN, ${company.url}, []`);
@@ -27,7 +27,7 @@ import fetch from 'node-fetch';
                 try{
                     const html = await fetch(company.website);
                     const html_text = await html.text();
-                    const githubs = html_text.match(/github.com\/[A-Za-z0-9_.-/]+/g);
+                    const githubs = html_text.match(/github.com\/[-A-Za-z0-9_./]+/g);
                     console.log(`${company.name}, ${company.website}, ${company.url}, [${githubs ? githubs.toString().replace(",","|") : ''}]`);    
                 } catch(e) {
                     console.log(`${company.name}, ${company.website} #SITEDOWN, ${company.url}, []`);
