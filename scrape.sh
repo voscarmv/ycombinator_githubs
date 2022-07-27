@@ -29,7 +29,7 @@ cat 03_repos.csv | \
     while read line ; do node github_scraper.js $line ; done | \
     sort -rn > 04_sorted_repos.csv
 
-# 5. Filter out non-YCombinator repost from final list
+# 5. Filter out non-YCombinator repos from final list
 #    This generates 05_final_repos.csv
 
 cat 04_sorted_repos.csv | \
