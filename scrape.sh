@@ -52,4 +52,7 @@ cat 04_sorted_repos.csv | \
 # The idea is that these repos will be fresh and welcoming to beginners, with plenty of activity to participate.
 
 cat 05_final_repos.csv | \
-    ./jsonize.sh > 06_repos.json
+    ./jsonize.sh | \
+    tac | \
+    sed '2s/,//' | \
+    tac > 06_repos.json
