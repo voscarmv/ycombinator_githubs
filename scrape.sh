@@ -50,3 +50,6 @@ cat 04_sorted_repos.csv | \
 # The most active github repositories written in JavaScript and Ruby will be located at the top of the 04 file.
 # These are also the most recent repositories from Y Combinator companies.
 # The idea is that these repos will be fresh and welcoming to beginners, with plenty of activity to participate.
+
+cat 05_final_repos.csv | \
+    ./jsonize.sh > 06_repos.json
