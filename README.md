@@ -1,6 +1,8 @@
 # ycombinator_githubs
 A web scraping / data mining script for extracting beginner-friendly github repos from Y Combinator's company database: https://www.ycombinator.com/companies/
 
+[![Watch the video](https://img.youtube.com/vi/Jl4GdOiZ4tk/default.jpg)](https://youtu.be/Jl4GdOiZ4tk)
+
 This scraper is designed with [Microverse](https://www.microverse.org/) students and graduates in mind. It extracts the most recent and active Y Combinator github repos, written in JavaScript and Ruby, which are the two languages Micronauts use the most!
 
 The resulting list as of July 2022 for YC batches S21, W21, S22 and W22, is in [`05_final_repos.csv`](./05_final_repos.csv). Be sure to check it out to find beginner-friendly repos written in JS and Ruby.
