@@ -1,7 +1,7 @@
 # ycombinator_githubs
 A web scraping / data mining script for extracting beginner-friendly github repos from Y Combinator's company database: https://www.ycombinator.com/companies/
 
-Watch this YouTube video for a detailed explanation, and more!
+Watch [this YouTube video](https://youtu.be/Jl4GdOiZ4tk) for a detailed explanation, and more!
 
 [![Watch the video](https://img.youtube.com/vi/Jl4GdOiZ4tk/default.jpg)](https://youtu.be/Jl4GdOiZ4tk)
 
