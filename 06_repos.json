@@ -1,18 +1,18 @@
 [
   {
-      "issues": 639,
+      "issues": 669,
       "org": "chatwoot",
       "repo": "chatwoot",
       "language": " Ruby"
   },
   {
-      "issues": 344,
+      "issues": 341,
       "org": "artilleryio",
       "repo": "artillery",
       "language": " JavaScript"
   },
   {
-      "issues": 156,
+      "issues": 157,
       "org": "AnomalyInnovations",
       "repo": "serverless-bundle",
       "language": " JavaScript"
@@ -24,7 +24,7 @@
       "language": " JavaScript"
   },
   {
-      "issues": 89,
+      "issues": 85,
       "org": "vuestorefront",
       "repo": "storefront-ui",
       "language": " JavaScript"
@@ -42,7 +42,7 @@
       "language": " JavaScript"
   },
   {
-      "issues": 60,
+      "issues": 62,
       "org": "chatwoot",
       "repo": "chatwoot-mobile-app",
       "language": " JavaScript"
@@ -60,7 +60,7 @@
       "language": " JavaScript"
   },
   {
-      "issues": 47,
+      "issues": 51,
       "org": "chatwoot",
       "repo": "docs",
       "language": " JavaScript"
@@ -79,14 +79,14 @@
   },
   {
       "issues": 26,
-      "org": "AnomalyInnovations",
-      "repo": "serverless-stack-demo-client",
+      "org": "pyroscope-io",
+      "repo": "docs",
       "language": " JavaScript"
   },
   {
-      "issues": 25,
-      "org": "pyroscope-io",
-      "repo": "docs",
+      "issues": 26,
+      "org": "AnomalyInnovations",
+      "repo": "serverless-stack-demo-client",
       "language": " JavaScript"
   },
   {
@@ -133,14 +133,14 @@
   },
   {
       "issues": 17,
-      "org": "argoproj",
-      "repo": "argo-site",
+      "org": "arengu",
+      "repo": "documentation",
       "language": " JavaScript"
   },
   {
-      "issues": 17,
-      "org": "arengu",
-      "repo": "documentation",
+      "issues": 16,
+      "org": "argoproj",
+      "repo": "argo-site",
       "language": " JavaScript"
   },
   {
@@ -169,27 +169,21 @@
   },
   {
       "issues": 13,
-      "org": "supabase",
-      "repo": "realtime-js",
+      "org": "filamentgroup",
+      "repo": "Responsive-Images",
       "language": " JavaScript"
   },
   {
-      "issues": 13,
+      "issues": 12,
       "org": "mindee",
       "repo": "mindee-api-nodejs",
       "language": " JavaScript"
   },
   {
-      "issues": 13,
+      "issues": 12,
       "org": "getlago",
       "repo": "lago-api",
       "language": " Ruby"
-  },
-  {
-      "issues": 13,
-      "org": "filamentgroup",
-      "repo": "Responsive-Images",
-      "language": " JavaScript"
   },
   {
       "issues": 12,
@@ -207,6 +201,12 @@
       "issues": 11,
       "org": "AnomalyInnovations",
       "repo": "serverless-lerna-yarn-starter",
+      "language": " JavaScript"
+  },
+  {
+      "issues": 10,
+      "org": "supabase",
+      "repo": "realtime-js",
       "language": " JavaScript"
   },
   {
@@ -248,7 +248,7 @@
   {
       "issues": 8,
       "org": "tuva-health",
-      "repo": "knowledge_base",
+      "repo": "docs",
       "language": " JavaScript"
   },
   {
@@ -280,12 +280,6 @@
       "org": "pyroscope-io",
       "repo": "pyroscope-ruby",
       "language": " Ruby"
-  },
-  {
-      "issues": 6,
-      "org": "firezone",
-      "repo": "website",
-      "language": " JavaScript"
   },
   {
       "issues": 6,
@@ -349,6 +343,12 @@
   },
   {
       "issues": 3,
+      "org": "getlago",
+      "repo": "lago-docs",
+      "language": " JavaScript"
+  },
+  {
+      "issues": 3,
       "org": "filamentgroup",
       "repo": "jQuery-Collapsible-Content",
       "language": " JavaScript"
@@ -373,8 +373,8 @@
   },
   {
       "issues": 2,
-      "org": "infracost",
-      "repo": "actions",
+      "org": "getlago",
+      "repo": "lago-nodejs-client",
       "language": " JavaScript"
   },
   {
@@ -481,6 +481,12 @@
   },
   {
       "issues": 1,
+      "org": "getlago",
+      "repo": "lago-ruby-client",
+      "language": " Ruby"
+  },
+  {
+      "issues": 1,
       "org": "filamentgroup",
       "repo": "RWD-Table-Patterns",
       "language": " JavaScript"
@@ -542,12 +548,6 @@
   {
       "issues": 1,
       "org": "arengu",
-      "repo": "resources",
-      "language": " JavaScript"
-  },
-  {
-      "issues": 1,
-      "org": "arengu",
       "repo": "react-arengu-forms",
       "language": " JavaScript"
   },
@@ -592,6 +592,18 @@
       "org": "warrant-dev",
       "repo": "warrant-demo-app-ts",
       "language": " JavaScript"
+  },
+  {
+      "issues": 0,
+      "org": "warrant-dev",
+      "repo": "plugin-image-zoom",
+      "language": " JavaScript"
+  },
+  {
+      "issues": 0,
+      "org": "warrant-dev",
+      "repo": "homebrew-warrant",
+      "language": " Ruby"
   },
   {
       "issues": 0,
@@ -688,6 +700,12 @@
       "org": "Pluralith",
       "repo": "pluralith-homebrew-tap",
       "language": " Ruby"
+  },
+  {
+      "issues": 0,
+      "org": "payloadcms",
+      "repo": "plugin-cloud-storage",
+      "language": " JavaScript"
   },
   {
       "issues": 0,
@@ -835,20 +853,14 @@
   },
   {
       "issues": 0,
-      "org": "getlago",
-      "repo": "lago-ruby-client",
-      "language": " Ruby"
-  },
-  {
-      "issues": 0,
-      "org": "getlago",
-      "repo": "lago-nodejs-client",
+      "org": "infracost",
+      "repo": "actions",
       "language": " JavaScript"
   },
   {
       "issues": 0,
-      "org": "getlago",
-      "repo": "lago-docs",
+      "org": "hyperbeam",
+      "repo": "threejs-example",
       "language": " JavaScript"
   },
   {
@@ -1083,6 +1095,12 @@
       "issues": 0,
       "org": "artilleryio",
       "repo": "acme-corp-api-tests",
+      "language": " JavaScript"
+  },
+  {
+      "issues": 0,
+      "org": "arengu",
+      "repo": "resources",
       "language": " JavaScript"
   },
   {
