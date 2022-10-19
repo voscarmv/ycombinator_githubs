@@ -8,7 +8,7 @@ while read line ; do
     echo '      "org": "'${ORG}'",'
     echo '      "repo": "'${REPO}'",'
     echo '      "language": "'${arr[2]}'",'
-    echo '      "topics": [' $( printf '"%s", ' "${arr[@]:3}")']'
+    echo '      "topics": "'"${arr[@]:3}"'"'
     echo '  },'
 done
 echo ']'
