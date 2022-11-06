@@ -1,20 +1,20 @@
 [
   {
-      "issues": 745,
+      "issues": 748,
       "org": "chatwoot",
       "repo": "chatwoot",
       "language": " Ruby",
       "topics": " actioncable chat-widget conversation customer-support dashboard design docker docker-image drift hacktoberfest heroku intercom javascript livechat opensource rails sass vuejs whatsapp zendesk"
   },
   {
-      "issues": 355,
+      "issues": 346,
       "org": "artilleryio",
       "repo": "artillery",
       "language": " JavaScript",
       "topics": " api-testing continuous-testing continuous-verification load-testing serverless stress-testing synthetic-monitoring synthetic-testing"
   },
   {
-      "issues": 162,
+      "issues": 163,
       "org": "AnomalyInnovations",
       "repo": "serverless-bundle",
       "language": " JavaScript",
@@ -28,7 +28,7 @@
       "topics": " backend elasticsearch magento product-catalog redis vue-storefront vuejs2"
   },
   {
-      "issues": 83,
+      "issues": 75,
       "org": "vuestorefront",
       "repo": "storefront-ui",
       "language": " JavaScript",
@@ -42,7 +42,7 @@
       "topics": ""
   },
   {
-      "issues": 58,
+      "issues": 56,
       "org": "chatwoot",
       "repo": "chatwoot-mobile-app",
       "language": " JavaScript",
@@ -84,7 +84,7 @@
       "topics": " amplify aws-cognito react react-bootstrap react-router"
   },
   {
-      "issues": 24,
+      "issues": 23,
       "org": "artilleryio",
       "repo": "artillery-core",
       "language": " JavaScript",
@@ -155,13 +155,6 @@
   },
   {
       "issues": 13,
-      "org": "getlago",
-      "repo": "lago-api",
-      "language": " Ruby",
-      "topics": ""
-  },
-  {
-      "issues": 13,
       "org": "argoproj",
       "repo": "argo-site",
       "language": " JavaScript",
@@ -176,17 +169,17 @@
   },
   {
       "issues": 11,
+      "org": "getlago",
+      "repo": "lago-api",
+      "language": " Ruby",
+      "topics": ""
+  },
+  {
+      "issues": 11,
       "org": "AnomalyInnovations",
       "repo": "serverless-lerna-yarn-starter",
       "language": " JavaScript",
       "topics": " lerna monorepo serverless serverless-bundle serverless-framework yarn yarn-workspaces"
-  },
-  {
-      "issues": 9,
-      "org": "supabase",
-      "repo": "realtime-js",
-      "language": " JavaScript",
-      "topics": " hacktoberfest"
   },
   {
       "issues": 9,
@@ -197,10 +190,24 @@
   },
   {
       "issues": 9,
+      "org": "infracost",
+      "repo": "actions",
+      "language": " JavaScript",
+      "topics": " actions aws azure cost-estimation finops github-actions google infracost terraform"
+  },
+  {
+      "issues": 9,
       "org": "chatwoot",
       "repo": "chatwoot-hooks",
       "language": " Ruby",
       "topics": ""
+  },
+  {
+      "issues": 8,
+      "org": "supabase",
+      "repo": "realtime-js",
+      "language": " JavaScript",
+      "topics": " hacktoberfest"
   },
   {
       "issues": 8,
@@ -232,13 +239,6 @@
   },
   {
       "issues": 6,
-      "org": "getlago",
-      "repo": "lago-docs",
-      "language": " JavaScript",
-      "topics": ""
-  },
-  {
-      "issues": 6,
       "org": "athensresearch",
       "repo": "docs",
       "language": " JavaScript",
@@ -259,13 +259,6 @@
       "topics": " documents nodejs ocr-recognition"
   },
   {
-      "issues": 5,
-      "org": "authzed",
-      "repo": "authzed-node",
-      "language": " JavaScript",
-      "topics": " authorization authzed authzed-client fine-grained-access-control fine-grained-authorization javascript node nodejs permissions sdk spicedb spicedb-client typescript zanzibar"
-  },
-  {
       "issues": 4,
       "org": "vuestorefront",
       "repo": "redis-driver",
@@ -284,6 +277,13 @@
       "org": "getlago",
       "repo": "lago-ruby-client",
       "language": " Ruby",
+      "topics": ""
+  },
+  {
+      "issues": 4,
+      "org": "getlago",
+      "repo": "lago-docs",
+      "language": " JavaScript",
       "topics": ""
   },
   {
@@ -309,10 +309,24 @@
   },
   {
       "issues": 3,
-      "org": "infracost",
-      "repo": "actions",
+      "org": "uselotus",
+      "repo": "lotus-node",
       "language": " JavaScript",
-      "topics": " actions aws azure cost-estimation finops github-actions google infracost terraform"
+      "topics": ""
+  },
+  {
+      "issues": 3,
+      "org": "svix",
+      "repo": "svix-docs",
+      "language": " JavaScript",
+      "topics": " api documentation go python svix typescript webhooks"
+  },
+  {
+      "issues": 3,
+      "org": "mergentlabs",
+      "repo": "mergent-ruby",
+      "language": " Ruby",
+      "topics": " mergent ruby"
   },
   {
       "issues": 3,
@@ -327,6 +341,13 @@
       "repo": "shoestring",
       "language": " JavaScript",
       "topics": " dom dom-utilities jquery"
+  },
+  {
+      "issues": 3,
+      "org": "authzed",
+      "repo": "authzed-rb",
+      "language": " Ruby",
+      "topics": " acl authorization authzed authzed-client fine-grained-access-control fine-grained-authorization grpc grpc-ruby permissions ruby sdk security security-tools spicedb spicedb-client zanzibar"
   },
   {
       "issues": 3,
@@ -350,13 +371,6 @@
       "topics": " artillery kinesis load-testing"
   },
   {
-      "issues": 3,
-      "org": "arengu",
-      "repo": "resources",
-      "language": " JavaScript",
-      "topics": ""
-  },
-  {
       "issues": 2,
       "org": "wasp-lang",
       "repo": "wasp-bot",
@@ -365,24 +379,10 @@
   },
   {
       "issues": 2,
-      "org": "svix",
-      "repo": "svix-docs",
-      "language": " JavaScript",
-      "topics": " api documentation go python svix typescript webhooks"
-  },
-  {
-      "issues": 2,
       "org": "serverless-stack",
       "repo": "examples",
       "language": " JavaScript",
       "topics": " aws graphql nodejs serverless sst typescript"
-  },
-  {
-      "issues": 2,
-      "org": "mergentlabs",
-      "repo": "mergent-ruby",
-      "language": " Ruby",
-      "topics": " mergent ruby"
   },
   {
       "issues": 2,
@@ -401,9 +401,9 @@
   {
       "issues": 2,
       "org": "authzed",
-      "repo": "authzed-rb",
-      "language": " Ruby",
-      "topics": " acl authorization authzed authzed-client fine-grained-access-control fine-grained-authorization grpc grpc-ruby permissions ruby sdk security security-tools spicedb spicedb-client zanzibar"
+      "repo": "authzed-node",
+      "language": " JavaScript",
+      "topics": " authorization authzed authzed-client fine-grained-access-control fine-grained-authorization javascript node nodejs permissions sdk spicedb spicedb-client typescript zanzibar"
   },
   {
       "issues": 2,
@@ -416,13 +416,6 @@
       "issues": 1,
       "org": "vuestorefront",
       "repo": "docs.vuestorefront.io-v2",
-      "language": " JavaScript",
-      "topics": ""
-  },
-  {
-      "issues": 1,
-      "org": "uselotus",
-      "repo": "lotus-node",
       "language": " JavaScript",
       "topics": ""
   },
@@ -477,10 +470,31 @@
   },
   {
       "issues": 1,
+      "org": "laudspeaker",
+      "repo": "laudspeaker-posthog-plugin",
+      "language": " JavaScript",
+      "topics": ""
+  },
+  {
+      "issues": 1,
+      "org": "laudspeaker",
+      "repo": "laudspeaker-posthog-plugin",
+      "language": " JavaScript",
+      "topics": ""
+  },
+  {
+      "issues": 1,
       "org": "JovianML",
       "repo": "react-top-loader",
       "language": " JavaScript",
       "topics": " loader progress-bar react react-component"
+  },
+  {
+      "issues": 1,
+      "org": "infracost",
+      "repo": "docs",
+      "language": " JavaScript",
+      "topics": ""
   },
   {
       "issues": 1,
@@ -491,9 +505,9 @@
   },
   {
       "issues": 1,
-      "org": "frain-dev",
-      "repo": "convoy.rb",
-      "language": " Ruby",
+      "org": "firezone",
+      "repo": "blog",
+      "language": " JavaScript",
       "topics": ""
   },
   {
@@ -527,14 +541,14 @@
   {
       "issues": 1,
       "org": "artilleryio",
-      "repo": "artillery-plugin-publish-metrics",
+      "repo": "artillery-plugin-profiler",
       "language": " JavaScript",
       "topics": ""
   },
   {
       "issues": 1,
-      "org": "artilleryio",
-      "repo": "artillery-plugin-profiler",
+      "org": "arengu",
+      "repo": "resources",
       "language": " JavaScript",
       "topics": ""
   },
@@ -652,13 +666,6 @@
   },
   {
       "issues": 0,
-      "org": "supabase",
-      "repo": "sql-formatter",
-      "language": " JavaScript",
-      "topics": ""
-  },
-  {
-      "issues": 0,
       "org": "sturdyfi",
       "repo": "defillama-yield-server",
       "language": " JavaScript",
@@ -708,6 +715,41 @@
   },
   {
       "issues": 0,
+      "org": "questbook",
+      "repo": "wXTZ",
+      "language": " JavaScript",
+      "topics": ""
+  },
+  {
+      "issues": 0,
+      "org": "questbook",
+      "repo": "webapp-frontend",
+      "language": " JavaScript",
+      "topics": " nextjs reactjs tailwindcss"
+  },
+  {
+      "issues": 0,
+      "org": "questbook",
+      "repo": "web3uikit",
+      "language": " JavaScript",
+      "topics": ""
+  },
+  {
+      "issues": 0,
+      "org": "questbook",
+      "repo": "credentials-backend",
+      "language": " JavaScript",
+      "topics": ""
+  },
+  {
+      "issues": 0,
+      "org": "questbook",
+      "repo": "chainlist",
+      "language": " JavaScript",
+      "topics": ""
+  },
+  {
+      "issues": 0,
       "org": "pyroscope-io",
       "repo": "hotrod-ruby",
       "language": " Ruby",
@@ -738,6 +780,13 @@
       "issues": 0,
       "org": "Pluralith",
       "repo": "pluralith-homebrew-tap",
+      "language": " Ruby",
+      "topics": ""
+  },
+  {
+      "issues": 0,
+      "org": "pipekit",
+      "repo": "homebrew-tap",
       "language": " Ruby",
       "topics": ""
   },
@@ -793,6 +842,13 @@
   {
       "issues": 0,
       "org": "openline-ai",
+      "repo": "openline-ui-kit",
+      "language": " JavaScript",
+      "topics": ""
+  },
+  {
+      "issues": 0,
+      "org": "openline-ai",
       "repo": "openline-customer-support-widget",
       "language": " JavaScript",
       "topics": ""
@@ -830,7 +886,7 @@
       "org": "mindee",
       "repo": "mindee-api-ruby",
       "language": " Ruby",
-      "topics": " api-client ruby ruby-gem"
+      "topics": " api-client ocr ocr-api ruby ruby-gem"
   },
   {
       "issues": 0,
@@ -925,15 +981,15 @@
   },
   {
       "issues": 0,
-      "org": "infracost",
-      "repo": "docs",
+      "org": "hyperbeam",
+      "repo": "status-page",
       "language": " JavaScript",
       "topics": ""
   },
   {
       "issues": 0,
       "org": "hyperbeam",
-      "repo": "status-page",
+      "repo": "react-three-fiber-example",
       "language": " JavaScript",
       "topics": ""
   },
@@ -960,16 +1016,16 @@
   },
   {
       "issues": 0,
-      "org": "firezone",
-      "repo": "posthog-ruby",
+      "org": "frain-dev",
+      "repo": "convoy.rb",
       "language": " Ruby",
       "topics": ""
   },
   {
       "issues": 0,
       "org": "firezone",
-      "repo": "blog",
-      "language": " JavaScript",
+      "repo": "posthog-ruby",
+      "language": " Ruby",
       "topics": ""
   },
   {
@@ -1291,6 +1347,13 @@
       "issues": 0,
       "org": "artilleryio",
       "repo": "artillery-plugin-teamcity",
+      "language": " JavaScript",
+      "topics": ""
+  },
+  {
+      "issues": 0,
+      "org": "artilleryio",
+      "repo": "artillery-plugin-publish-metrics",
       "language": " JavaScript",
       "topics": ""
   },
