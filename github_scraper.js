@@ -18,9 +18,9 @@ dotenv.config();
             // console.log(ghJson);
             if(ghJson.message !== 'Not Found'){
                 ghJson.forEach((repo) => {
-                    if(repo.language === 'JavaScript' || repo.language === 'Ruby'){
+                    // if(repo.language === 'JavaScript' || repo.language === 'Ruby'){
                         console.log(`${repo.open_issues_count}, https://github.com/${repo.full_name}, ${repo.language}, ${repo.topics}`);
-                    }
+                    // }
                 });
             }
         } catch (e) {
